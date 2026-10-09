@@ -4765,7 +4765,9 @@ hr {
      object-fit: cover;
 }
 .cs_testimonial.cs_style_2 .cs_testimonial_quote {
-  margin-bottom: 20px;
+    width: 40px;
+    height: auto;
+    margin-bottom: 20px;
 }
 .cs_testimonial.cs_style_2 .cs_testimonial_text {
   margin-bottom: 20px;
