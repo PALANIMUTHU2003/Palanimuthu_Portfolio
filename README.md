@@ -1,23 +1,32 @@
-# Palanimuthu T — AI Engineer
+# Palanimuthu T — Data Analyst | Sports Analytics
 
-> Most AI gets Tamil wrong. I fix that.
+Personal portfolio showcasing my work in **Data Analytics and Sports Analytics**.
 
-Production-grade Tamil ASR and TTS pipelines — live on the Google Play Store.
+## About Me
 
----
+I’m a B.Tech graduate in Artificial Intelligence and Data Science with 1+ year of professional experience as an Associate Software Engineer.
 
-## What I Build
+My work and projects focus on transforming raw data into meaningful insights using:
 
-- **Tamil ASR Forced Alignment** — Word-level timestamps for human-recorded audio using Azure Speech SDK
-- **Hybrid Tamil TTS** — 700+ audio assets with IPA phoneme correction for errors Azure Neural TTS gets wrong natively
-- **Gemini API Automation** — Image generation pipeline replacing manual content creation for a Tamil EdTech app
+* SQL
+* Python
+* Pandas
+* Power BI
+* DAX
+* Power Query
+* Excel
+* ETL
+* Data Modelling
 
----
+I’m currently building my career toward **Data Analytics, Sports Analytics, and Data Engineering**.
 
-## Tech Stack
+## Featured Projects
 
-`Python` `Azure Speech SDK` `Azure Neural TTS` `Gemini API` `FFmpeg` `Librosa` `SSML` `IPA Phoneme Lexicons`
+### 🏏 IPL Cricket Analytics ETL
 
----
+An end-to-end cricket data engineering and analytics pipeline built using Python and Cricsheet JSON data.
 
-*B.Tech in AI & Data Science · Sona College of Technology · 8.04 CGPA*
+**Technologies:** Python · Pandas · SQL · SQLite · ETL · Data Modelling
+
+[View Project](https://github.com/PALANIMUTHU2003/ipl-cricket-analytics-etl)
+
